@@ -2,12 +2,13 @@
     height: 60px;
     color:black;
     background-color: #ddd;
-    padding: 0 32px;
     z-index: 100;
 }
+
 .navbar-nav li{
     color: black;
-
+    background-color:#ffaed3;
+    width: 100vw;
 }
 
 .nav-item:hover{
