@@ -7,8 +7,6 @@
 
 .navbar-nav li{
     color: black;
-    background-color:#ffaed3;
-    width: 100vw;
 }
 
 .nav-item:hover{
@@ -128,4 +126,12 @@ justify-content: space-between;
 
 .cor-link-cc:hover {
     color: #c2467f;
+}
+
+@media (max-width: 768px){
+
+    .navbar-nav li{
+        background-color:#ffaed3;
+        width: 100vw;
+    }
 }
